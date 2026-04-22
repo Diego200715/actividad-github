@@ -2,3 +2,5 @@
 Estudiante de Ingeniería en Sistemas en la universidad ieu campus veracruz
 Trabajando en desarrollo
 Hola mundo
+
+¿Por que estudiar en la ieu?
