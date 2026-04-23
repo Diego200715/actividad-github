@@ -1,6 +1,8 @@
 # Mi Tarea de GitHub
-Estudiante de Ingeniería en Sistemas en la universidad ieu campus veracruz
-Trabajando en desarrollo
-Hola mundo
+-Se agregaron inconos nuevos.
 
-¿Por que estudiar en la ieu?
+-Se corrigieron errores visuales.
+
+-Se agregaron apartados de tamaño de bebidas.
+
+-Se añadieron pedidos a domicilio del cafe 5 bits
